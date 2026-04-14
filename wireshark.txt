@@ -1,0 +1,8 @@
+1. select wifi
+2. stop capturing packets
+3. open web browser and type testphp.vulnweb
+4. open wireshark and start scanning
+5. sign up and login
+6. open wireshark and stop
+7. click filter type http and enter
+8. double click on post method

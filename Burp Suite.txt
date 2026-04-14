@@ -1,0 +1,10 @@
+1. install and open Burp Suite
+2. select (temporary project, use burp defaults) start burp
+3. select proxy tab and check if intercept is off
+4. Click on Open Browser and Search for testphp.vulnweb.com
+5. click on our guestbook and enter a message
+6. check if intercept on before sending msg
+7. In the Proxy → Intercept tab , we see request
+8. locate msg and update the msg
+9. click forward and send request
+10. observe display msg changed 
